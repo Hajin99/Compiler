@@ -4,17 +4,17 @@
 
 ## ✨ 언어 정의, DFA 설계, 토큰 네이밍
 
-![image](https://github.com/user-attachments/assets/2e760cb1-b576-4977-a8b8-34a7e915bb4d)
+![image](https://github.com/user-attachments/assets/1de25d3a-6f43-4969-8990-ac0ff36a02f1)
 
-![image](https://github.com/user-attachments/assets/d55090ff-4c58-47ee-bdea-7ecedaa810e6)
+![image](https://github.com/user-attachments/assets/898ab2e7-716c-41f2-9acf-550f5969720f)
 
-![image](https://github.com/user-attachments/assets/1821bf0b-e56b-46c1-870b-f444dd1fa241)
+![image](https://github.com/user-attachments/assets/f7465b38-05aa-4e9c-8a33-02036698e0bc)
 
-![image](https://github.com/user-attachments/assets/e337f762-f6dc-4628-bf45-3ba05e51b315)
+![image](https://github.com/user-attachments/assets/b27d77b4-a760-4eb1-98b6-8abd5e869df4)
 
-![image](https://github.com/user-attachments/assets/a7516cd7-57fb-491e-8f8f-da22674ce182)
+![image](https://github.com/user-attachments/assets/1582595f-d53d-4888-b5a5-daf547de13ec)
 
-![image](https://github.com/user-attachments/assets/eac55fea-955a-4021-847b-d8ab25bd5afb)
+![image](https://github.com/user-attachments/assets/9abd8bcf-ac7d-4d7e-86e5-2072de1dc008)
 
 ## 📝 결과 화면
 
